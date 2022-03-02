@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kamil\Desktop\Projekty\Faktura-C#\MyImageButton\obj\Debug\MyImageButton.csproj.CopyComplete
